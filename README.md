@@ -1,0 +1,2 @@
+# Cleaning-and-Transforming-Data
+Tools in Azure Machine Learning Studio along with R Jupyter Notebook have been used to integrate, clean and transform data.  The built-in modules in Azure ML provide an easy to use approach to performing some of the most common data transformations, and if one intends to use an Azure ML experiment to build and publish a predictive web service, one should generally try to use the built-in modules wherever possible as they are re-configured for production automatically as part of the web service creation process.
